@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gqt</groupId>
-	<artifactId>03-miniproject</artifactId>
+	<artifactId>springminiproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>03-miniproject</name>
 	<description>Demo project for Spring Boot</description>
